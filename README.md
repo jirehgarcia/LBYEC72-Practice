@@ -30,4 +30,4 @@ float computeCircleArea(float functionRadius){
 }
 
 ```
-[screenshot](Capture.PNG)
+![screenshot](Capture.PNG)
